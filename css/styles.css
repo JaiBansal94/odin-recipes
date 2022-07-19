@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 60px;
+    color: darkseagreen;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    padding-left: 220px;
+}
+
+h2 {
+    color: darkorange;
+}
